@@ -1,9 +1,10 @@
 .container{
-    width: 45vh;
+    width: 100vh;
     justify-content: center;
     align-items: center;
     display: flex;
     margin: auto;
+    margin-top: 35vh;
 }
 h1{
     margin-bottom: 20px;
@@ -14,7 +15,7 @@ h1{
 }
 input{
     padding: 20px;
-    width: 25vh;
+    width: 50vh;
     margin-bottom: 25px;
     border: none;
     border-bottom: 2px solid;
@@ -25,7 +26,9 @@ input{
 button{
     width: 18vh;
     text-align: center;
-    margin-left: 9vh;
+    justify-content: center;
+    display: flex;
+    margin: auto;
     padding: 15px;
     background-color: pink;
     border: none;

@@ -1,7 +1,9 @@
-form{
+.container{
     width: 40vh;
-    margin-left: 80vh;
-    margin-top: 35vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
 }
 h1{
     margin-bottom: 20px;

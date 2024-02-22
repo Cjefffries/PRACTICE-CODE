@@ -42,7 +42,6 @@ button:hover{
 }
 body{
     background-color: beige;
-    touch-action: none;
 }
 fieldset{
     background-color: white;

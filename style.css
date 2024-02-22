@@ -1,0 +1,54 @@
+form{
+    width: 40vh;
+    margin-left: 80vh;
+    margin-top: 35vh;
+}
+h1{
+    margin-bottom: 20px;
+    margin-left: 12vh;
+    margin-top: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+}
+input{
+    padding: 20px;
+    width: 25vh;
+    margin-bottom: 25px;
+    border: none;
+    border-bottom: 2px solid;
+    font-size: 20px;
+    border-color: grey;
+    margin-left: 20px;
+}
+button{
+    width: 18vh;
+    text-align: center;
+    margin-left: 9vh;
+    padding: 15px;
+    background-color: pink;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    color: grey;
+    transition: opacity 0.5s ease-in-out;
+}
+button:hover{
+    background-color: blue;
+}
+body{
+    background-color: beige;
+}
+fieldset{
+    background-color: white;
+    border: none;
+    box-shadow: 5px 10px rgb(228, 225, 225);
+    border-radius: 10px;
+}
+img{
+    padding: 0;
+    position: absolute;
+    width: 150px;
+    margin-left: 30vh;
+    transform: rotate(50deg);
+}
+
